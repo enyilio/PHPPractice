@@ -13,7 +13,6 @@
 		<input type="password" name="password" placeholder="Enter Password"></br>
 		<input type="submit" name="submit" value="submit">
 	</form>
-    
-<p>1234</p>
+<p></p>
 </body>
 </html>
